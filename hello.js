@@ -30,3 +30,10 @@ console.log(typeof willgetthejobinGoogle);
 // ..5th class..//
 var myName = 'arpa nihan';
 console.log(myName);
+
+//..6th class..//
+var promise = "I promise I will work hard to become a programmer";
+promise.toLowerCase()
+console.log(promise.toUpperCase());
+console.log(promise.indexOf('work'));
+console.log(promise.split(' '));
