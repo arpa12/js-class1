@@ -69,3 +69,24 @@ var price1 = 'justein';
 var name = 'alu';
 var total = `${price1} ${name}`;
 console.log(total);
+
+//..9th class..//
+var number = -5;
+var absoluteNumber = Math.abs(number);
+console.log(absoluteNumber);
+
+var number = 5.627966299;
+var absoluteNumber = Math.round(number);
+console.log(absoluteNumber);
+
+var number = 5.627966299;
+var absoluteNumber = Math.ceil(number);
+console.log(absoluteNumber);
+
+var number = 5.627966299;
+var absoluteNumber = Math.floor(number);
+console.log(absoluteNumber);
+
+var number = Math.random() * 100;
+var absoluteNumber = Math.round(number);
+console.log(absoluteNumber);
