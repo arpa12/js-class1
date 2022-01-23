@@ -25,3 +25,7 @@ var notgettheJob = false;
 console.log(typeof sistersAge);
 console.log(typeof ceoName);
 console.log(typeof willgetthejobinGoogle);
+
+
+// ..5th class..//
+var myName = 'arpa nihan';
