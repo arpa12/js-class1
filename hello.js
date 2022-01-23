@@ -37,3 +37,23 @@ promise.toLowerCase()
 console.log(promise.toUpperCase());
 console.log(promise.indexOf('work'));
 console.log(promise.split(' '));
+
+//..7th class..//
+var number1 = 25;
+var number2 = 15.5;
+number1 = '' + number1;
+number1 = parseFloat(number1);
+number2 = parseInt(number2);
+console.log(number1 + number2);
+console.log(typeof number1)
+
+var number1 = 25;
+var number2 = 15.5;
+number1 = '' + number1;
+console.log(typeof number1)
+
+var num1 = 0.1;
+var num2 = 0.2;
+var total = num1 + num2;
+total = total.toFixed(1);
+console.log(total);
