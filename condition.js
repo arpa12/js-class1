@@ -17,3 +17,6 @@ if (job == true || savingAmount > 200000) {
 } else {
     console.log("dont get marry");
 }
+//..12th class..//
+var date = new Date('1971-12-16');
+console.log(date);
