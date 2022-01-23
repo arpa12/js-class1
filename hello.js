@@ -29,3 +29,4 @@ console.log(typeof willgetthejobinGoogle);
 
 // ..5th class..//
 var myName = 'arpa nihan';
+console.log(myName);
